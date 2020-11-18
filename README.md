@@ -7,6 +7,7 @@ So, this is a simple CGPA Calculator where you input the number of subjects, cre
 
 Technologies used in this project:
 
-Python
-Tkinter
-Snippets of the software: to
+1.Python
+2.Tkinter
+
+Snippets of the software

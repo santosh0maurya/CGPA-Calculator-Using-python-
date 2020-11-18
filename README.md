@@ -10,4 +10,4 @@ Technologies used in this project:
 1.Python
 2.Tkinter
 
-Snippets of the software
+
